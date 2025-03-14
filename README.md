@@ -12,3 +12,5 @@ sudo rm README.md -f -r
 sudo mv /* ~/.themes
 reboot # rebooting is optional
 ```
+# Done!
+have fun!
