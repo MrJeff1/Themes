@@ -9,7 +9,7 @@ tar --use-compress-program=unzstd -xvf themes.tar.zst
 tar --zstd -xvf themes.tar.zst
 sudo rm themes.tar.zst -f -r
 sudo rm README.md -f -r
-sudo mv /* ~/.themes
+sudo mv ~/Themes/* ~/.themes
 reboot # rebooting is optional
 ```
 # Done!
