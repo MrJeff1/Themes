@@ -1,6 +1,6 @@
 # Themes
 themes for linux mint
-#Installation
+# Installation
 run this command in terminal ***linux only***
 ```bash
 git clone https://github.com/MrJeff1/Themes.git
